@@ -8,6 +8,6 @@
 3. Once it is executed, run different models to find the accuracy and generating submission files
 
 
-1. accuracy achieved in the traininig and validation set : around 85%
+1. accuracy achieved in the testing set provided : around 85%
 2. accuracy achieved in the competition : 69%
 
